@@ -8,7 +8,7 @@ const app = express();
 app.get('/', (req, res) => {
   // Create a sample JSON object
   const data = {
-    message: "Hello, world!",
+    message: "Hello, world! update",
     number: 42,
     isAwesome: true
   };
